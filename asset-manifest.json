@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-ImageFinder/static/css/main.cfda8877.chunk.css",
+    "main.js": "/React-ImageFinder/static/js/main.467db56d.chunk.js",
+    "main.js.map": "/React-ImageFinder/static/js/main.467db56d.chunk.js.map",
+    "runtime~main.js": "/React-ImageFinder/static/js/runtime~main.688da3a6.js",
+    "runtime~main.js.map": "/React-ImageFinder/static/js/runtime~main.688da3a6.js.map",
+    "static/js/2.b5e6dfc4.chunk.js": "/React-ImageFinder/static/js/2.b5e6dfc4.chunk.js",
+    "static/js/2.b5e6dfc4.chunk.js.map": "/React-ImageFinder/static/js/2.b5e6dfc4.chunk.js.map",
+    "index.html": "/React-ImageFinder/index.html",
+    "precache-manifest.409b0e8bdfe0a502b0306bb9d541d592.js": "/React-ImageFinder/precache-manifest.409b0e8bdfe0a502b0306bb9d541d592.js",
+    "service-worker.js": "/React-ImageFinder/service-worker.js",
+    "static/css/main.cfda8877.chunk.css.map": "/React-ImageFinder/static/css/main.cfda8877.chunk.css.map"
+  }
+}
