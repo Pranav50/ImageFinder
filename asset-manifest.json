@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-ImageFinder/static/css/main.cfda8877.chunk.css",
-    "main.js": "/React-ImageFinder/static/js/main.467db56d.chunk.js",
-    "main.js.map": "/React-ImageFinder/static/js/main.467db56d.chunk.js.map",
-    "runtime~main.js": "/React-ImageFinder/static/js/runtime~main.688da3a6.js",
-    "runtime~main.js.map": "/React-ImageFinder/static/js/runtime~main.688da3a6.js.map",
-    "static/js/2.b5e6dfc4.chunk.js": "/React-ImageFinder/static/js/2.b5e6dfc4.chunk.js",
-    "static/js/2.b5e6dfc4.chunk.js.map": "/React-ImageFinder/static/js/2.b5e6dfc4.chunk.js.map",
-    "index.html": "/React-ImageFinder/index.html",
-    "precache-manifest.409b0e8bdfe0a502b0306bb9d541d592.js": "/React-ImageFinder/precache-manifest.409b0e8bdfe0a502b0306bb9d541d592.js",
-    "service-worker.js": "/React-ImageFinder/service-worker.js",
-    "static/css/main.cfda8877.chunk.css.map": "/React-ImageFinder/static/css/main.cfda8877.chunk.css.map"
+    "main.css": "/ImageFinder/static/css/main.cfda8877.chunk.css",
+    "main.js": "/ImageFinder/static/js/main.f3a56378.chunk.js",
+    "main.js.map": "/ImageFinder/static/js/main.f3a56378.chunk.js.map",
+    "runtime~main.js": "/ImageFinder/static/js/runtime~main.c60aab3a.js",
+    "runtime~main.js.map": "/ImageFinder/static/js/runtime~main.c60aab3a.js.map",
+    "static/js/2.dbf354d1.chunk.js": "/ImageFinder/static/js/2.dbf354d1.chunk.js",
+    "static/js/2.dbf354d1.chunk.js.map": "/ImageFinder/static/js/2.dbf354d1.chunk.js.map",
+    "index.html": "/ImageFinder/index.html",
+    "precache-manifest.76de8147f4fff00d09b15864e258e253.js": "/ImageFinder/precache-manifest.76de8147f4fff00d09b15864e258e253.js",
+    "service-worker.js": "/ImageFinder/service-worker.js",
+    "static/css/main.cfda8877.chunk.css.map": "/ImageFinder/static/css/main.cfda8877.chunk.css.map"
   }
 }
