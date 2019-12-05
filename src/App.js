@@ -8,7 +8,7 @@ import Search from './components/Search';
 function App() {
   return (
     <MuiThemeProvider>
-      <BrowserRouter basename='/MovieApp/'>
+      <BrowserRouter basename='/ImageFinder/'>
          <Navbar/>
          <Search/>
       </BrowserRouter>
