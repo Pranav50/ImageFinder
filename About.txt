@@ -1,0 +1,2 @@
+Make few changes:
+1. On removing search text, images disappear
